@@ -1,6 +1,6 @@
 # react-js-timesheet
 
-~~~~~~~ Reuploaded from my old Github ~~~~~~~~~
+--------Reuploaded from my old Github--------
 
 Web application to maintain grants, volunteers, and timesheet information for staff and volunteers.
 
